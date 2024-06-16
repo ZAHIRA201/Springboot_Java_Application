@@ -29,26 +29,24 @@ This Spring Boot application empowers you to streamline educational staff manage
 
 ### **Prerequisites**
 
-Ensure you have the following tools installed on your system:
-
 - **Java Development Kit (JDK):** Make sure you have JDK 11 or later. [Download here](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 - **Maven 3 or later:** This build tool will assemble your project efficiently. [Download here](https://maven.apache.org/download.cgi)
 - **Database:** Choose your champion: MySQL, PostgreSQL, or even H2 (for in-memory testing).
 
 ### **Database Setup**
 
-1. Edit `src/main/resources/application.properties` to configure your chosen database connection details.
-2. Ensure your database schema is created. Refer to your database documentation for creation scripts or tools.
+1. Edit `src/main/resources/application.properties` to configure the chosen database connection details.
+2. Ensure the database schema is created. Refer to the database documentation for creation scripts or tools.
 
 ## Lift Off! (Accessing the Application)
 
-Your application should typically be accessible at [http://localhost:8080](http://localhost:8080) in your web browser. Buckle up!
+The application should typically be accessible at [http://localhost:8080](http://localhost:8080) in the web browser. Buckle up!
 
-## Features (Your Arsenal)
+## Features (The Arsenal)
 
 ### Staff Management:
 
-- Effortlessly manage your educational staff (teachers, administrators, etc.)—add, edit, and delete them with a few clicks.
+- Effortlessly manage the educational staff (teachers, administrators, etc.)—add, edit, and delete them with a few clicks.
 - View a comprehensive list of staff members with details like name, ID, department, and more. Implement filtering and sorting for a truly customized experience!
 
 ### Exam Management:
@@ -76,7 +74,7 @@ We welcome contributions to enhance the functionality and usability of this proj
 
 1. Fork the repository.
 2. Create a new branch for your feature or bugfix.
-3. Commit your changes and push the branch to your forked repository.
+3. Commit the changes and push the branch to the forked repository.
 4. Create a Pull Request to the main repository.
 
 Feel free to reach out with any questions or suggestions, either on my LinkedIn profile: [CHAKIR Fatima Ez-zahra](https://www.linkedin.com/in/chakir-fatima-ez-zahra/) or email me on : chakirfatimaezzahra3@gmail.com
