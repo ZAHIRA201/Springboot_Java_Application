@@ -32,7 +32,7 @@ This Spring Boot application empowers you to streamline educational staff manage
 ### **Prerequisites**
 
 - **Java Development Kit (JDK):** Make sure you have JDK 11 or later. [Download here](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
-- **Maven 3 or later:** This build tool will assemble your project efficiently. [Download here](https://maven.apache.org/download.cgi)
+- **Maven 3 or later:** This build tool will assemble the project efficiently. [Download here](https://maven.apache.org/download.cgi)
 - **Database:** Choose your champion: MySQL, PostgreSQL, or even H2 (for in-memory testing).
 
 ### **Database Setup**
