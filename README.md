@@ -22,10 +22,10 @@ This Spring Boot application empowers you to streamline educational staff manage
 
 ## **Tech Stack**
 
-- **Spring MVC:** Provides a structured foundation for building your web application using the Model-View-Controller (MVC) architecture, ensuring a clear separation of concerns. [Learn more](https://spring.io/guides/gs/serving-web-content)
-- **Spring Data JPA:** Simplifies database interactions through magical object-relational mapping (ORM), allowing you to interact with your database using Java objects like a pro. [Learn more](https://spring.io/projects/spring-data-jpa)
-- **Spring Security:** Acts as your digital bodyguard, implementing robust authentication (login) and authorization (access control) mechanisms to keep your data secure. [Learn more](https://spring.io/projects/spring-security)
-- **JSP:** The dynamic duo with Spring MVC, JSP generates dynamic content within the View layer, ensuring your web pages are visually engaging and interactive.
+- **Spring MVC:** Provides a structured foundation for building a web application using the Model-View-Controller (MVC) architecture, ensuring a clear separation of concerns. [Learn more](https://spring.io/guides/gs/serving-web-content)
+- **Spring Data JPA:** Simplifies database interactions through magical object-relational mapping (ORM), allowing to interact with the database using Java objects like a pro. [Learn more](https://spring.io/projects/spring-data-jpa)
+- **Spring Security:** Acts as the digital bodyguard, implementing robust authentication (login) and authorization (access control) mechanisms to keep data secure. [Learn more](https://spring.io/projects/spring-security)
+- **JSP:** The dynamic duo with Spring MVC, JSP generates dynamic content within the View layer, ensuring the web pages are visually engaging and interactive.
 
 ## **Getting Started (Launch Sequence)**
 
