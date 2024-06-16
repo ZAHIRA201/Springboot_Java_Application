@@ -50,17 +50,20 @@ The application should typically be accessible at [http://localhost:8080](http:/
 
 - Effortlessly manage the educational staff (teachers, administrators, etc.)—add, edit, and delete them with a few clicks.
 - View a comprehensive list of staff members with details like name, ID, department, and more. Implement filtering and sorting for a truly customized experience!
-
+ ![4](https://github.com/ZAHIRA201/Springboot_Java_App/assets/120922044/ddd7d1f0-1e29-4848-b81a-45cd012a2602)
 ### Exam Management:
 
 - Create exams with ease, specifying subject, date, time, duration, and all the essential details.
 - Assign classes and staff members to conduct exams, ensuring a smooth and organized exam process.
 - View upcoming and past exams with a clear overview for better planning and analysis.
+  ![3](https://github.com/ZAHIRA201/Springboot_Java_App/assets/120922044/52c0f798-3d89-429a-bd97-1b2edf068cb4)
+
 
 ### Authentication and Authorization (Your Security Shield):
 
 - Implement secure user login and registration with a user-friendly interface.
 - Control access to specific functionalities and data based on user roles (e.g., "ADMIN," "TEACHER"). Only authorized users can access sensitive areas, keeping your data safe!
+  ![second](https://github.com/ZAHIRA201/Springboot_Java_App/assets/120922044/ee9d54ce-512d-4413-93e5-f22db073db2b)
 
 ## Project Structure (Your Navigation Map)
 
