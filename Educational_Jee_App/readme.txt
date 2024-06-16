@@ -54,14 +54,4 @@ Compte admin :
 **********
 login:  admin pass : admin
 
-Compte Student :
-**********
-login: student pass : admin
 
-Compte cadre admin :
-**********
-login: cadre_admin pass : admin
-
-Compte prof :
-**********
-login: prof pass : admin
