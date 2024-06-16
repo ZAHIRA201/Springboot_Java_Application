@@ -1,4 +1,4 @@
-# Jee Spring Boot: Your Educational Staff & Exam Command Center! 🛡️ 
+# Jee Spring Boot: Your Educational Staff & Exam Command Center! 🍃
 
 Welcome to **Jee Spring Boot**, an all-encompassing platform for managing educational staff and organizing exams effortlessly. This project demonstrates the powerful combination of Spring Boot, MVC, JPA, Security, and JSP to create a dynamic and secure web application.
 
