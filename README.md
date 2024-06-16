@@ -2,6 +2,8 @@
 
 Welcome to **Jee Spring Boot**, an all-encompassing platform for managing educational staff and organizing exams effortlessly. This project demonstrates the powerful combination of Spring Boot, MVC, JPA, Security, and JSP to create a dynamic and secure web application.
 
+![First](https://github.com/ZAHIRA201/Springboot_Java_App/assets/120922044/f6555b0f-2cd4-4dda-be31-10e863a3bb5c)
+
 ## **Table of Contents**
 
 1. [Introduction](#introduction)
