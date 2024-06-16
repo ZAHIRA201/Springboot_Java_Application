@@ -77,7 +77,9 @@ We welcome contributions to enhance the functionality and usability of this proj
 3. Commit the changes and push the branch to the forked repository.
 4. Create a Pull Request to the main repository.
 
-Feel free to reach out with any questions or suggestions, either on my LinkedIn profile: [CHAKIR Fatima Ez-zahra](https://www.linkedin.com/in/chakir-fatima-ez-zahra/) or email me on : chakirfatimaezzahra3@gmail.com
+Feel free to reach out with any questions or suggestions, either on :
+- my LinkedIn profile : [CHAKIR Fatima Ez-zahra](https://www.linkedin.com/in/chakir-fatima-ez-zahra/) 
+- My Email  : chakirfatimaezzahra3@gmail.com
 
 Together, we can make this project even better!🤝❤️
 
