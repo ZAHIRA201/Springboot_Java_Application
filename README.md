@@ -89,9 +89,6 @@ We welcome contributions to enhance the functionality and usability of this proj
 
 Feel free to reach out with any questions or suggestions, either on :
 - my LinkedIn profile : [CHAKIR Fatima Ez-zahra](https://www.linkedin.com/in/chakir-fatima-ez-zahra/) 
-- My Email  : chakirfatimaezzahra3@gmail.com
-
-Together, we can make this project even better!🤝❤️
 
 
 
